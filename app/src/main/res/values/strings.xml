@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">D20 Roller</string>
+    <string name="roll_d20">ROLL D20</string>
+    <string name="advantage">Advantage</string>
+    <string name="disadvantage">Disadvantage</string>
+    <string name="roll_ability_scores">Roll Ability Scores (4d6 drop lowest)</string>
+    <string name="history">History</string>
+    <string name="copy_scores">Copy Scores</string>
+    <string name="scores_copied">Scores copied to clipboard</string>
+</resources>
