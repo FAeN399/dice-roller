@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.maddog.d20roller"
-    compileSdk = 35
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.maddog.d20roller"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
     }
